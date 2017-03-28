@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\studio\\aaaaaaaaaaa\\TestSwipeRefreshRecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\joker\\.android\\build-cache\\d296a6b18a06dc8227d2061cb5f0b66b4d640e6a\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\studio\\aaaaaaaaaaa\\TestSwipeRefreshRecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\joker\\.android\\build-cache\\d296a6b18a06dc8227d2061cb5f0b66b4d640e6a\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\github\\swipe\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\joker\\.android\\build-cache\\b6ccf2f89c50f2c6258bd72636e28b640948cb9d\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\github\\swipe\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\joker\\.android\\build-cache\\b6ccf2f89c50f2c6258bd72636e28b640948cb9d\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\studio\\aaaaaaaaaaa\\TestSwipeRefreshRecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\joker\\.android\\build-cache\\d296a6b18a06dc8227d2061cb5f0b66b4d640e6a\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\studio\\aaaaaaaaaaa\\TestSwipeRefreshRecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\joker\\.android\\build-cache\\d296a6b18a06dc8227d2061cb5f0b66b4d640e6a\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\github\\swipe\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\joker\\.android\\build-cache\\b6ccf2f89c50f2c6258bd72636e28b640948cb9d\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\studio\\aaaaaaaaaaa\\TestSwipeRefreshRecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\joker\\.android\\build-cache\\d296a6b18a06dc8227d2061cb5f0b66b4d640e6a\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\github\\swipe\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\joker\\.android\\build-cache\\b6ccf2f89c50f2c6258bd72636e28b640948cb9d\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\studio\\aaaaaaaaaaa\\TestSwipeRefreshRecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\joker\\.android\\build-cache\\d296a6b18a06dc8227d2061cb5f0b66b4d640e6a\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\github\\swipe\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\joker\\.android\\build-cache\\b6ccf2f89c50f2c6258bd72636e28b640948cb9d\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\github\\swipe\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\joker\\.android\\build-cache\\b6ccf2f89c50f2c6258bd72636e28b640948cb9d\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    }
+]

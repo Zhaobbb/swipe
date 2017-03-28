@@ -1,0 +1,88 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\github\swipe\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\github\swipe\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from D:\github\swipe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github\swipe\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\github\swipe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github\swipe\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\github\swipe\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\github\swipe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github\swipe\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\github\swipe\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\joker\.android\build-cache\b6ccf2f89c50f2c6258bd72636e28b640948cb9d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\joker\.android\build-cache\e23430ae3b2f800581d0a934fee915de674e9d3f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\joker\.android\build-cache\11fd6e4a0ac28927acdf201a2b48f3fd6ea53334\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\joker\.android\build-cache\0c963f80cb7ff99c7d25776a669f731ba68d9a1e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\joker\.android\build-cache\8b20718877fa9e254d15c30b0a65dc8f4e3c4594\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\joker\.android\build-cache\9e48e3925eef104308de696fe6c8dadc6b3457e8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\joker\.android\build-cache\3a04023d5577bd33d0fcd82fee169c19ace1297e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\joker\.android\build-cache\571144ef3f156113a711b8aa4d091a0ef6544850\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\joker\.android\build-cache\18198c32f792eb05ab777caa676d64c0d8a02b64\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\joker\.android\build-cache\d48fa7cf54a1a73322f7e501d22a108a0a498f27\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\github\swipe\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\github\swipe\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\github\swipe\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from D:\github\swipe\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\github\swipe\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\github\swipe\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.wzhnsc.testswiperefreshrecyclerview.MainActivity
+ADDED from D:\github\swipe\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\github\swipe\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\github\swipe\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\github\swipe\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\github\swipe\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\github\swipe\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\github\swipe\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\github\swipe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\joker\.android\build-cache\fae833ef145e870e9280be509b971512a3b24796\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\joker\.android\build-cache\b6ccf2f89c50f2c6258bd72636e28b640948cb9d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\joker\.android\build-cache\e23430ae3b2f800581d0a934fee915de674e9d3f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\joker\.android\build-cache\11fd6e4a0ac28927acdf201a2b48f3fd6ea53334\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\joker\.android\build-cache\0c963f80cb7ff99c7d25776a669f731ba68d9a1e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\joker\.android\build-cache\8b20718877fa9e254d15c30b0a65dc8f4e3c4594\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\joker\.android\build-cache\9e48e3925eef104308de696fe6c8dadc6b3457e8\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\joker\.android\build-cache\3a04023d5577bd33d0fcd82fee169c19ace1297e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\joker\.android\build-cache\571144ef3f156113a711b8aa4d091a0ef6544850\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\joker\.android\build-cache\18198c32f792eb05ab777caa676d64c0d8a02b64\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\joker\.android\build-cache\d48fa7cf54a1a73322f7e501d22a108a0a498f27\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\joker\.android\build-cache\b6ccf2f89c50f2c6258bd72636e28b640948cb9d\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\github\swipe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github\swipe\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\github\swipe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github\swipe\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\joker\.android\build-cache\b6ccf2f89c50f2c6258bd72636e28b640948cb9d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\joker\.android\build-cache\e23430ae3b2f800581d0a934fee915de674e9d3f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\joker\.android\build-cache\11fd6e4a0ac28927acdf201a2b48f3fd6ea53334\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\joker\.android\build-cache\0c963f80cb7ff99c7d25776a669f731ba68d9a1e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\joker\.android\build-cache\8b20718877fa9e254d15c30b0a65dc8f4e3c4594\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\joker\.android\build-cache\9e48e3925eef104308de696fe6c8dadc6b3457e8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\joker\.android\build-cache\3a04023d5577bd33d0fcd82fee169c19ace1297e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\joker\.android\build-cache\571144ef3f156113a711b8aa4d091a0ef6544850\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\joker\.android\build-cache\18198c32f792eb05ab777caa676d64c0d8a02b64\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\joker\.android\build-cache\b6ccf2f89c50f2c6258bd72636e28b640948cb9d\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\joker\.android\build-cache\b6ccf2f89c50f2c6258bd72636e28b640948cb9d\output\AndroidManifest.xml:26:9-47

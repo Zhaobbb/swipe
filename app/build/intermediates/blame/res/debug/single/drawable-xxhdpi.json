@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\github\\swipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_watch_num.png",
+        "source": "D:\\github\\swipe\\app\\src\\main\\res\\drawable-xxhdpi\\icon_watch_num.png"
+    },
+    {
+        "merged": "E:\\studio\\aaaaaaaaaaa\\TestSwipeRefreshRecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_comment_num.png",
+        "source": "E:\\studio\\aaaaaaaaaaa\\TestSwipeRefreshRecyclerView\\app\\src\\main\\res\\drawable-xxhdpi\\icon_comment_num.png"
+    },
+    {
+        "merged": "D:\\github\\swipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_no_data_content.png",
+        "source": "D:\\github\\swipe\\app\\src\\main\\res\\drawable-xxhdpi\\icon_no_data_content.png"
+    },
+    {
+        "merged": "E:\\studio\\aaaaaaaaaaa\\TestSwipeRefreshRecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_watch_num.png",
+        "source": "E:\\studio\\aaaaaaaaaaa\\TestSwipeRefreshRecyclerView\\app\\src\\main\\res\\drawable-xxhdpi\\icon_watch_num.png"
+    },
+    {
+        "merged": "D:\\github\\swipe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_comment_num.png",
+        "source": "D:\\github\\swipe\\app\\src\\main\\res\\drawable-xxhdpi\\icon_comment_num.png"
+    },
+    {
+        "merged": "E:\\studio\\aaaaaaaaaaa\\TestSwipeRefreshRecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_no_data_content.png",
+        "source": "E:\\studio\\aaaaaaaaaaa\\TestSwipeRefreshRecyclerView\\app\\src\\main\\res\\drawable-xxhdpi\\icon_no_data_content.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\studio\\aaaaaaaaaaa\\TestSwipeRefreshRecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "E:\\studio\\aaaaaaaaaaa\\TestSwipeRefreshRecyclerView\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\studio\\aaaaaaaaaaa\\TestSwipeRefreshRecyclerView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\studio\\aaaaaaaaaaa\\TestSwipeRefreshRecyclerView\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\github\\swipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\github\\swipe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\github\\swipe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "D:\\github\\swipe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]
